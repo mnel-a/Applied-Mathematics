@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a835e949da549804387a69e74e3c2c7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalSprite: {fileID: 2347282639888765923, guid: dc72a6e504451ed4a9d429465d4f212a, type: 3}
+  - dangerSprite: {fileID: 3573036208370857778, guid: 650b783f52f2f87488f9567d69d358fa, type: 3}
+  - finishSprite: {fileID: -4852961795069942285, guid: e127440f8b211a2409a584c63dba0001, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
