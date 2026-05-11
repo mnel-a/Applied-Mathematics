@@ -149,8 +149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fff79052470e2d04caed17ffe971f633, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DangerZone
-  triggerDistance: 2
-  loseDistance: 0.8
+  triggerDistance: 3
+  loseDistance: 1.5
   shakeAmount: 0.08
 --- !u!212 &271632304
 SpriteRenderer:
@@ -671,8 +671,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fff79052470e2d04caed17ffe971f633, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DangerZone
-  triggerDistance: 2
-  loseDistance: 0.8
+  triggerDistance: 3
+  loseDistance: 1.5
   shakeAmount: 0.08
 --- !u!212 &716808075
 SpriteRenderer:
@@ -884,8 +884,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fff79052470e2d04caed17ffe971f633, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DangerZone
-  triggerDistance: 2
-  loseDistance: 0.8
+  triggerDistance: 3
+  loseDistance: 1.5
   shakeAmount: 0.08
 --- !u!212 &1174180411
 SpriteRenderer:
@@ -991,8 +991,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fff79052470e2d04caed17ffe971f633, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DangerZone
-  triggerDistance: 2
-  loseDistance: 0.8
+  triggerDistance: 3
+  loseDistance: 1.5
   shakeAmount: 0.08
 --- !u!212 &1263755415
 SpriteRenderer:
