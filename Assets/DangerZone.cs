@@ -4,8 +4,8 @@ using UnityEngine.UI;
 
 public class DangerZone : MonoBehaviour
 {
-    public float triggerDistance = 2f;
-    public float loseDistance = 0.8f;
+    public float triggerDistance = 3f;
+    public float loseDistance = 1.5f;
     public float shakeAmount = 0.08f;
 
     private Vector3 startPos;
